@@ -1,12 +1,23 @@
-## Arrumar depois
+## Tech Girls
 
-<!--
+![Logo](https://github.com/FIAP-Tech-Girls/.github/assets/80417466/9ec53397-5fab-4cd3-bf5d-56713fee63e0)
 
-**Here are some ideas to get you started:**
+## Quem somos?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Escrever aqui
+
+## Objetivo
+
+Escrever aqui
+
+## Integrantes
+
+Colocar aqui
+
+## Como faço caso desejo visualizar o projeto em meu computador?
+
+Basta acessar o repositório que deseja e em cada ReadMe, há um manual de instruções para guia-lo. 
+
+## Copyright 
+
+Copyright ©️ Anny, Camila, Leticia e Luana.
