@@ -4,15 +4,18 @@
 
 ## Quem somos?
 
-Escrever aqui
+Empresa ficticia para as entregas dos trabalhos da faculdade na @FIAP composta pelas meninas da sala.
 
 ## Objetivo
 
-Escrever aqui
+Entrega de trabalhos desde checkpoints, challenges e global solution.
 
 ## Integrantes
 
-Colocar aqui
+Anny Dias
+Camila Padalino
+Leticia Resina
+Luana Cabezaolias
 
 ## Como faço caso desejo visualizar o projeto em meu computador?
 
